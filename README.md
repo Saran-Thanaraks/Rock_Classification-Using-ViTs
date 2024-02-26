@@ -6,9 +6,8 @@ Set Up Step
 1. Download dataset
 2. Extract 7 subdirectory from 3 main directory. Then you'll get dataset directory with 7 classes directory.
 3. install library/framework
-   ---NAME-----------------------Version-------
-    Augmentor                    0.2.12
-    datasets                     2.14.6
+   - Augmentor                    0.2.12
+   - datasets                     2.14.6
     evaluate                     0.4.0
     matplotlib                   3.8.2
     numpy                        1.26.2
