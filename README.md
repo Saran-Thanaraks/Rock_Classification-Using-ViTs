@@ -15,7 +15,6 @@ Set Up Step
    - pyarrow                      15.0.0
    - scikit-learn                 1.3.2
    - seaborn                      0.13.0
-   - tokenizers                   0.13.3
    - torch                        2.2.0+cu118
    - torchaudio                   2.2.0+cu118
    - torchvision                  0.17.0+cu118
